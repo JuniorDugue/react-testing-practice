@@ -14,3 +14,8 @@ function App() {
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
+
+// notes
+
+// npm install @testing-library/react react-test-render jest-dom --save-dev
+// to install necessary testing libraries, 
